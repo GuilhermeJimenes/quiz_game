@@ -1,5 +1,3 @@
-## <img src="https://valora.cc/img/logo2.png" alt="Valora" width="24" /> Desafio Backend Python
-
 Esse projeto é uma API de uma aplicação para a criação de um quiz de perguntas e respostas, as seguintes ferramentas foram utilizadas
 * Python 
 * Django 
